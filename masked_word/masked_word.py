@@ -1,5 +1,5 @@
 import streamlit as st
-import masked_word.mask_predictor as mask_predictor
+import mask_predictor
 
 st.title("Masked Word Prediction with BERT")
 st.subheader("Predict the masked word in the sentence")
